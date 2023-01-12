@@ -1,0 +1,4 @@
+#Tue Jan 10 14:20:01 IST 2023
+base.0=/home/aditya/IdeaProjects/movies_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
